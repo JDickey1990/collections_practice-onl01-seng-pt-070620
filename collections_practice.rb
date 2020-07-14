@@ -52,7 +52,7 @@ end
   
 def add_s(words)
 words.each_with_index do |word, index|
-  if index != 2 
+  if index != 1 
     word<< "s"
 end
 end
