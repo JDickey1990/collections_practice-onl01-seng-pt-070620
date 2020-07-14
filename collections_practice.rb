@@ -36,7 +36,7 @@ end
   
  def kesha_maker (array) 
   array.split.each_with_index do |third_place,index|
-  if index==3 <<$
+  if index==3 << "$"
     third_place
 end
   
