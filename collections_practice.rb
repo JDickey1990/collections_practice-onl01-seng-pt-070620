@@ -35,13 +35,9 @@ def reverse_array(array)
 end
   
  def kesha_maker (array) 
-  modified_array=[]
   array.each do |third_place|
   if third_place.length==3
     
-  modified_array<< 
-      
-      
 end
   
   
