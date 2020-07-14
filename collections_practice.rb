@@ -38,6 +38,7 @@ end
   array.split.each_with_index do |third_place,index|
   if index==3 << "$"
     third_place
+  end
 end
   
   
