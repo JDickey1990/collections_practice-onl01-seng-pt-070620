@@ -56,6 +56,7 @@ words.each_with_index do |word, index|
     word<< "s"
 end
 end
+end
   
   
 
