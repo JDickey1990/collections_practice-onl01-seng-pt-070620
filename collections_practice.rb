@@ -42,7 +42,10 @@ end
   
   def find_a(strings)
     strings.select do |letter_a|
-      
+      letter_a[0]=="a"
+    end
+  end
+  
 
   
   
