@@ -41,7 +41,8 @@ end
   end
   
   def find_a(strings)
-    
+    strings.select do |letter_a|
+      
 
   
   
