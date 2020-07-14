@@ -36,7 +36,7 @@ end
   
  def kesha_maker (names) 
   names.each  do |name|
-    name[2] 
+    name[2]="$"
     end
   end
 
