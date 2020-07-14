@@ -36,7 +36,9 @@ end
   
  def kesha_maker (array) 
   array.each  do |third_place|
-    third_place.each_with_index do
+    third_place.each_with_index do |x|
+      x<< "$"
+      third_place
   end
   end
 
