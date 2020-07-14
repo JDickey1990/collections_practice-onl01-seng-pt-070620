@@ -40,7 +40,8 @@ end
     end
   end
   
-  
+  def find_a(strings)
+    
 
   
   
