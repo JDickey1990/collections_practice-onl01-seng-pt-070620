@@ -36,7 +36,7 @@ end
   
  def kesha_maker (names) 
   names.each  do |name|
-    name.index["3"]
+    name.index[3]
     end
   end
 
