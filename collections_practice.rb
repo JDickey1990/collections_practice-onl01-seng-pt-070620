@@ -34,9 +34,9 @@ def reverse_array(array)
   array.reverse
 end
   
- def kesha_maker (array) 
-  array.each  do |third_place|
-    third_place
+ def kesha_maker (names) 
+  names.each  do |name|
+    name 
     end
   end
 
