@@ -37,7 +37,7 @@ end
  def kesha_maker (array) 
   modified_array=[]
   array.each do |item,
-    if index==3
+  modified_array<< 
       
       
 end
