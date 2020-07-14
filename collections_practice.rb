@@ -39,6 +39,7 @@ end
   if index==3 << "$"
     third_place
   end
+  end
 end
   
   
