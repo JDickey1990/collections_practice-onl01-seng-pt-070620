@@ -39,7 +39,8 @@ end
     third_place.each_with_index do |x|
       x<< "$"
       third_place
-  end
+    end
+    end
   end
 
   
