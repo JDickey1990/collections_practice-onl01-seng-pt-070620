@@ -35,9 +35,9 @@ def reverse_array(array)
 end
   
  def kesha_maker (array) 
-  array.each do |third_place|
-  if third_place.length==3
-    third_place_lenghth.gsub 
+  array.split.each_with_index do |third_place,index|
+  if index==3 <<$
+    third_place
 end
   
   
